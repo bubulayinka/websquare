@@ -41,7 +41,7 @@ a{
 
 /*------------firstbox-------------*/
 .first-box-img{
-    background: url(/image/first-img-bg.jpg);
+    background: url(../image/first-img-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -180px;
@@ -201,21 +201,21 @@ header .btn{
     padding: 40px 0;
 }
 .one{
-    background: url(/image/one.jpg);
+    background: url(../image/one.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 350px;
     height: 250px;
 }
 .two{
-    background: url(/image/two.jpg);
+    background: url(../image/two.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 350px;
     height: 250px;
 }
 .three{
-    background: url(/image/three.jpg);
+    background: url(../image/three.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 350px;
@@ -258,7 +258,7 @@ header .btn{
     
 }
 .workflow-img{
-    background: url(/image/cod1.jpg);
+    background: url(../image/cod1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 600px;
@@ -266,7 +266,7 @@ header .btn{
     
 }
 .workflow-img2{
-    background: url(/image/cod2.jpg);
+    background: url(../image/cod2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 500px;
@@ -354,7 +354,7 @@ header .btn{
 .fifth-bg{
     width: 200px;
     height: 200px;
-    background: url(/image/quote.png);
+    background: url(../image/quote.png);
     background-repeat: no-repeat;
     background-size: cover;
    
